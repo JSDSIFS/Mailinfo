@@ -1,13 +1,19 @@
-[{
-	"eid": "1",
-	"Email": "abc1@gmail.com"
-}, {
-	"eid": "2",
-	"Email": "abc2@hackermail.com"
-}, {
-	"eid": "3",
-	"Email": "abc3@engineer.com"
-}, {
-	"eid": "4",
-	"Email": "abc4@fastservice.com"
-}]
+{
+	"edata": [{
+			"eid": "1",
+			"Email": "abc1@gmail.com"
+		},
+		{
+			"eid": "2",
+			"Email": "abc2@hackermail.com"
+		},
+		{
+			"eid": "3",
+			"Email": "abc3@engineer.com"
+		},
+		{
+			"eid": "4",
+			"Email": "abc4@fastservice.com"
+		}
+	]
+}
